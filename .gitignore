@@ -1,8 +1,0 @@
-# Dependency directory
-node_modules
-
-# vector imagens directory
-*.ai
-
-# Optional npm cache directory
-.npm
